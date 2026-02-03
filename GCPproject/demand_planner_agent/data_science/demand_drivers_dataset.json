@@ -1,0 +1,9 @@
+{
+    "datasets": [
+      {
+        "type": "bigquery",
+        "name": "demand_drivers_dataset_planner",
+        "description": "This dataset contains demand driver analysis data for demand planning. It includes historical demand drivers and their values .this also provides consensus demand and POS data"
+      }
+    ]
+  }

@@ -1,0 +1,21 @@
+{
+  "env_vars": {
+    "GOOGLE_GENAI_USE_VERTEXAI": "1",
+    "GOOGLE_CLOUD_PROJECT": "gen-lang-client-0010459436",
+    "GOOGLE_CLOUD_LOCATION": "us-central1",
+    "BQ_NL2SQL_METHOD": "BASELINE",
+    "BQ_COMPUTE_PROJECT_ID": "gen-lang-client-0010459436",
+    "BQ_DATA_PROJECT_ID": "gen-lang-client-0010459436",
+    "BQ_DATASET_ID": "demand_drivers_dataset_planner",
+    "BQ_TABLE_ID": "demand_driver_values_dataset",
+    "BQML_RAG_CORPUS_NAME": "projects/404879003872/locations/europe-west4/ragCorpora/2305843009213693952",
+    "DATASET_CONFIG_FILE": "demand_drivers_dataset.json",
+    "ROOT_AGENT_MODEL": "gemini-2.5-pro",
+    "ANALYTICS_AGENT_MODEL": "gemini-2.5-flash",
+    "BIGQUERY_AGENT_MODEL": "gemini-2.5-flash",
+    "BASELINE_NL2SQL_MODEL": "gemini-2.5-flash",
+    "CHASE_NL2SQL_MODEL": "gemini-2.5-flash",
+    "BQML_AGENT_MODEL": "gemini-2.5-flash",
+    "RESEARCH_AGENT_MODEL": "gemini-2.5-flash"
+  }
+}
